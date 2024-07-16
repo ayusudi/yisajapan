@@ -17,7 +17,7 @@ function HomeComponent() {
       <Image className='mx-auto' src="/logo.png" width="420" height="420" alt='logo' />
       <div className='flex flex-col gap-10 my-[60px] text-2xl  container mx-auto'>
         <p className='text-center'>وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ</p>
-        <p className='text-center'>And who is better in speech than one who invites to Allah and does righteousness and says, 'Indeed, I am of the Muslims</p>
+        <p className='text-center'>And who is better in speech than one who invites to Allah and does righteousness and says, &apos;Indeed, I am of the Muslims</p>
         <p className='text-center'>アッラーに呼びかけ、善行を行い、『本当に、私はムスリムである』と言う者よりも優れた言葉を持つ者は誰ですか</p>
         <p className='text-center'>-- Surah Fussilat (41:33) --</p>
       </div>
