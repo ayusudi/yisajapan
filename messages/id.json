@@ -1,0 +1,24 @@
+{
+  "IndexPage": {
+    "title": "YISAJapan 2024 Situs Sedang Dalam Proses Pembaruan",
+    "description": "Situs YISAJapan 2024 sedang dalam proses pembaruan untuk memberikan pengalaman yang lebih baik kepada Anda."
+  },
+  "GalleryCarrousel": {
+    "title": "Galeri",
+    "text": "Perjalanan Melalui Dakwah"
+  },
+  "NotFoundPage": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Ups! Sepertinya Anda menemukan halaman yang tidak ada. Jangan khawatir, sihir internasionalisasi kami masih bekerja keras di bagian lain aplikasi. Silakan kembali untuk menjelajahi lebih lanjut!"
+  },
+  "Navigation": {
+    "home": "Beranda",
+    "articles": "Artikel",
+    "gallery": "Galeri",
+    "qna": "Pertanyaan & Jawaban",
+    "aboutus": "Tentang Kita"
+  },
+  "Footer": {
+    "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
+  }
+}

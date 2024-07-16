@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url(/background-home.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+#carousel-bg {
+  background-image: url(/green.png);
+  background-size: 100% 38%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+#footer {
+  background-image: url(/footer.png);
+  background-repeat: no-repeat;
+  background-size: cover
+}
